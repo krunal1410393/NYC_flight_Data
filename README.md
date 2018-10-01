@@ -8,28 +8,12 @@ Exploration ideas: Departure delays. Best airports in terms of time departure %.
 
 Q1. Which flight is having maximum departure delay?
 
-Q2. Find out delay departure count, on time departure count, early departure count.
+Q2. Find best airports in terms of time departure percentage (%).
 
-Q3. Which flight is having maximum number of departure delay count?
+Q3. Aircraft speed analysis.
 
-Q4. Plot Flight vs. departure delay count.
+Q4. On time arrival percentage(%) analysis.
 
-Q5. Total flight departure count for each origin port.
-
-Q6. Find total on time departure count in each origin port.
-
-Q7. Calculate percentage for each origin port.
-
-Q8. Find best airports in terms of time departure percentage (%).
-
-Q9. Aircraft speed analysis.
-
-Q10. Find Maximum speed of the flight & which flight.
-
-Q11. On time arrival percentage(%) analysis.
-
-Q12. Plot Flight Vs. Flight On Time.
-
-Q13. Maximum number of flights headed to some particular destination.
+Q5. Maximum number of flights headed to some particular destination.
 
 
