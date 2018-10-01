@@ -1,9 +1,4 @@
 Analyze_NYC_Flight
-Contributor: Asim Jana
-
-E-mail:	asim.jana@gmail.com
-
-Domain: Airlines
 
 Project: Analyze NYC-Flight data
 
